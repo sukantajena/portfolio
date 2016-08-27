@@ -1,1 +1,1 @@
-"my first git" 
+Git is awesome
